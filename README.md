@@ -8,7 +8,7 @@
 
 ## Top Linguagens
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niscas123)](https://github.com/anuraghazra/niscas123)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niscas123)](https://github.com/niscas123)
 ---
 
 ### Movimentações no Github
