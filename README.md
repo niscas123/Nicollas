@@ -6,6 +6,10 @@
 ### 💻 Linguagens
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white">
 
+## Top Linguagens
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niscas123)](https://github.com/anuraghazra/github-readme-stats)
+---
+
 ### Movimentações no Github
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=niscas123)
-
